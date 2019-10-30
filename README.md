@@ -1,2 +1,2 @@
 # sample-repo
-Sample Repo
+Sample Repo for git
